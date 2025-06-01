@@ -1,0 +1,42 @@
+[
+  {
+    "id": "120363399842929134@g.us",
+    "name": "Hehehe 🤌",
+    "conversationTimestamp": 1748775032,
+    "messages": [
+      {
+        "message": {
+          "key": {
+            "remoteJid": "120363399842929134@g.us",
+            "fromMe": true,
+            "id": "3EB0E888D6498ECB4B90DB"
+          },
+          "message": {
+            "extendedTextMessage": {
+              "text": "✅ Successfully sent a DM to @262715129999565",
+              "contextInfo": {
+                "stanzaId": "294973F72464AA1B856DDC49711D9C59",
+                "participant": "206146132553938@lid",
+                "quotedMessage": {
+                  "extendedTextMessage": {
+                    "text": ".dm Oga she's a beech",
+                    "previewType": "NONE",
+                    "inviteLinkGroupTypeV2": "DEFAULT"
+                  }
+                },
+                "mentionedJid": [
+                  "262715129999565@lid"
+                ]
+              }
+            }
+          },
+          "messageTimestamp": "1748775032",
+          "status": "PENDING",
+          "participant": "2347063179648:3@s.whatsapp.net"
+        }
+      }
+    ],
+    "unreadCount": 1,
+    "description": "Who dares?"
+  }
+]

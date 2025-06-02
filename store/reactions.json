@@ -8582,5 +8582,146 @@
         }
       }
     }
+  ],
+  [
+    {
+      "key": {
+        "remoteJid": "120363398968482757@g.us",
+        "fromMe": false,
+        "id": "3A6045D5313FB7EEA0EC",
+        "participant": "121569753976973@lid"
+      },
+      "reaction": {
+        "key": {
+          "remoteJid": "120363398968482757@g.us",
+          "fromMe": false,
+          "id": "1939EE616C32D0616E1056F8CF7B49D0",
+          "participant": "70519319748833@lid"
+        },
+        "text": "😂",
+        "senderTimestampMs": {
+          "low": 826348746,
+          "high": 407,
+          "unsigned": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "key": {
+        "remoteJid": "2348087301977@s.whatsapp.net",
+        "fromMe": true,
+        "id": "AB8BF56CA67ED8BBF8D875052C192C0E"
+      },
+      "reaction": {
+        "key": {
+          "remoteJid": "2348087301977@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB0D1D99DF37A21CCA841"
+        },
+        "text": "🐦",
+        "senderTimestampMs": {
+          "low": 829104400,
+          "high": 407,
+          "unsigned": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "key": {
+        "remoteJid": "120363399842929134@g.us",
+        "fromMe": false,
+        "id": "568E876F9D6BB61326DA5D1486FECC83",
+        "participant": "262715129999565@lid"
+      },
+      "reaction": {
+        "key": {
+          "remoteJid": "120363399842929134@g.us",
+          "fromMe": true,
+          "id": "3EB0332886AF98156B5922"
+        },
+        "text": "🤕",
+        "senderTimestampMs": {
+          "low": 849559450,
+          "high": 407,
+          "unsigned": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "key": {
+        "remoteJid": "120363398968482757@g.us",
+        "fromMe": false,
+        "id": "3A9472BB6EE4CCA7CA1A",
+        "participant": "46858479083754@lid"
+      },
+      "reaction": {
+        "key": {
+          "remoteJid": "120363398968482757@g.us",
+          "fromMe": false,
+          "id": "6E165D76F183E2908F80C635618FFF7B",
+          "participant": "44535019221160@lid"
+        },
+        "text": "💀",
+        "senderTimestampMs": {
+          "low": 851934821,
+          "high": 407,
+          "unsigned": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "key": {
+        "remoteJid": "120363398968482757@g.us",
+        "fromMe": false,
+        "id": "3A01F1085F040CC05E61",
+        "participant": "46858479083754@lid"
+      },
+      "reaction": {
+        "key": {
+          "remoteJid": "120363398968482757@g.us",
+          "fromMe": false,
+          "id": "8BC01FEE1BC85FD0E70D82F0799F315A",
+          "participant": "44535019221160@lid"
+        },
+        "text": "😂",
+        "senderTimestampMs": {
+          "low": 851997174,
+          "high": 407,
+          "unsigned": false
+        }
+      }
+    }
+  ],
+  [
+    {
+      "key": {
+        "remoteJid": "120363398968482757@g.us",
+        "fromMe": false,
+        "id": "3A01F1085F040CC05E61",
+        "participant": "46858479083754@lid"
+      },
+      "reaction": {
+        "key": {
+          "remoteJid": "120363398968482757@g.us",
+          "fromMe": false,
+          "id": "3AC813E03CF9E47B65D3",
+          "participant": "121569753976973@lid"
+        },
+        "text": "😂",
+        "senderTimestampMs": {
+          "low": 852221756,
+          "high": 407,
+          "unsigned": false
+        }
+      }
+    }
   ]
 ]
